@@ -1,6 +1,6 @@
-# Create an app that can check how many pizza did a person order and its percentage and the price of the pizza
+# Create an app that can check how many pizzas did a person order and its percentage and the price of the pizza
 
-# declare a 3 variable user name
+# declare a 3-variable user name
 name_1 = input("What is your name: ")
 name_2 = input("What is your name: ")
 name_3 = input("What is your name: ")
